@@ -69,6 +69,7 @@ class Gallery extends Component {
 
                     <h3>{obj.caption}</h3>
                     <p>{obj.description}</p>
+                    <p>{obj.alt}</p>
                 </article>
             );
         });
