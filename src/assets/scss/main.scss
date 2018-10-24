@@ -258,7 +258,7 @@
 	}
 
 	label {
-		color: _palette(fg-bold);
+		color: navy;
 		display: block;
 		font-size: 0.9em;
 		font-weight: _font(weight-bold);
@@ -811,7 +811,7 @@
 		background-color: transparent;
 		border-radius: _size(border-radius);
 		border: solid 3px _palette(border);
-		color: _palette(fg-bold) !important;
+		color:navy;
 		cursor: pointer;
 		display: inline-block;
 		font-weight: _font(weight-bold);
