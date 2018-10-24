@@ -105,24 +105,26 @@
 	h1 {
 		font-size: 2em;
 		line-height: 1.5em;
+		color:navy;
 	}
 
 	h2 {
 		font-size: 1.5em;
 		line-height: 1.5em;
-		color: cyan;
+		color: navy;
 	}
 
 	h3 {
 		font-size: 1.25em;
 		line-height: 1.5em;
-		color:cyan;
+		color:navy;
 		
 	}
 
 	h4 {
 		font-size: 1.1em;
 		line-height: 1.5em;
+		color:navy;
 	}
 
 	h5 {
@@ -221,14 +223,14 @@
 			font-size: 1.25em;
 			margin-top: (_size(element-margin) * -0.5);
 			line-height: 1.5em;
-			color:cyan;
+			color:navy;
 		}
 
 		h3 + p {
 			font-size: 1.1em;
 			margin-top: (_size(element-margin) * -0.4);
 			line-height: 1.5em;
-			color:cyan;
+			color:navy;
 		}
 
 		h4 + p,
@@ -237,12 +239,13 @@
 			font-size: 0.9em;
 			margin-top: (_size(element-margin) * -0.3);
 			line-height: 1.5em;
-			color:cyan;
+			color:navy;
 		}
 
 		&.major {
 			h2 {
 				font-size: 2em;
+				color:navy;
 			}
 		}
 	}
