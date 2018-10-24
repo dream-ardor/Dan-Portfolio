@@ -120,9 +120,9 @@ class HomeIndex extends React.Component {
                             <div className="8u 12u$(small)">
                                 <form method="post" action="#">
                                     <div className="row uniform 50%">
-                                        <div className="6u 12u$(xsmall)"><input type="text" name="name" id="name" aria-labelledby="name_label"  /></div>
-                                        <div className="6u 12u$(xsmall)"><input type="email" name="email" id="email" aria-labelledby="email_label" /></div>
-                                        <div className="12u"><textarea name="message" id="message" aria-labelledby="message" rows="4"></textarea></div>
+                                        <div className="6u 12u$(xsmall)"><input type="text" name="name" id="name" aria-labelledby="name_label" aria-checked="false" /></div>
+                                        <div className="6u 12u$(xsmall)"><input type="email" name="email" id="email" aria-labelledby="email_label" aria-checked="false"  /></div>
+                                        <div className="12u"><textarea name="message" id="message" aria-labelledby="message" aria-checked="false" rows="4"></textarea></div>
                                     </div>
                                 </form>
                                 <ul className="actions">
