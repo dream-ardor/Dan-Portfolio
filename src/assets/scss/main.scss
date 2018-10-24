@@ -57,9 +57,10 @@
 	}
 
 	body, input, select, textarea {
-		color: _palette(fg);
+		
 		font-family: _font(family);
 		font-size: 16pt;
+		color: navy;
 		font-weight: _font(weight);
 		line-height: 1.75em;
 	}
@@ -91,7 +92,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: _palette(fg-bold);
+		color: navy;
 		font-weight: _font(weight-bold);
 		line-height: 1em;
 		margin: 0 0 (_size(element-margin) * 0.5) 0;
