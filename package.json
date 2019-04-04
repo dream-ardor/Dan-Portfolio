@@ -1,22 +1,21 @@
 {
-  "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
+  "name": "gatsby-starter-v2",
+  "description": "Gatsby Portfolio",
   "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Dan Barrick",
   "dependencies": {
-    "gatsby": "^2.0.0",
-    "gatsby-plugin-manifest": "^2.0.2",
-    "gatsby-plugin-offline": "^2.0.5",
-    "gatsby-plugin-react-helmet": "^3.0.0",
-    "gatsby-plugin-sass": "^2.0.1",
-    "node-sass": "^4.9.3",
-    "react": "^16.5.1",
-    "react-dom": "^16.5.1",
-    "react-helmet": "^5.2.0",
-    "react-images": "^0.5.19"
+    "gatsby": "^2.2.9",
+    "gatsby-plugin-manifest": "^2.0.24",
+    "gatsby-plugin-offline": "^2.0.25",
+    "gatsby-plugin-react-helmet": "^3.0.10",
+    "gatsby-plugin-sass": "^2.0.11",
+    "node-sass": "^4.11.0",
+    "react": "^16.8.5",
+    "react-dom": "^16.8.5",
+    "react-helmet": "^5.2.0"
   },
   "keywords": [
-    "gatsby"
+    "gatsby,portfolio"
   ],
   "license": "MIT",
   "scripts": {
